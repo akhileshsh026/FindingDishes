@@ -1,0 +1,23 @@
+{
+  "name": "finding_dishes_js_project",
+  "version": "1.0.0",
+  "description": "a js project which uses the powerfull js capebilites with the help of babel and webpack frameworks ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhileshsh026/FindingDishes.git"
+  },
+  "keywords": [
+    "js",
+    "project"
+  ],
+  "author": "AkhileshKumarSahu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akhileshsh026/FindingDishes/issues"
+  },
+  "homepage": "https://github.com/akhileshsh026/FindingDishes#readme"
+}
