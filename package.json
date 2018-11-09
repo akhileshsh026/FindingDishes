@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/akhileshsh026/FindingDishes/issues"
   },
-  "homepage": "https://github.com/akhileshsh026/FindingDishes#readme"
+  "homepage": "https://github.com/akhileshsh026/FindingDishes#readme",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "webpack": "^4.25.1",
+    "webpack-cli": "^3.1.2"
+  }
 }
