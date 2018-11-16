@@ -4,7 +4,7 @@
   "description": "a js project which uses the powerfull js capebilites with the help of babel and webpack frameworks ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "webpack"
   },
   "repository": {
     "type": "git",
@@ -21,7 +21,9 @@
   },
   "homepage": "https://github.com/akhileshsh026/FindingDishes#readme",
   "dependencies": {
-    "jquery": "^3.3.1",
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {
     "webpack": "^4.25.1",
     "webpack-cli": "^3.1.2"
   }
