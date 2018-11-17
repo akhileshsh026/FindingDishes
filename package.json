@@ -4,7 +4,8 @@
   "description": "a js project which uses the powerfull js capebilites with the help of babel and webpack frameworks ",
   "main": "index.js",
   "scripts": {
-    "dev": "webpack"
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production"
   },
   "repository": {
     "type": "git",
